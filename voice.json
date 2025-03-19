@@ -1,0 +1,70 @@
+{
+    "questions": [
+      {
+        "text": "Hello! I am a chatbot from NeuraBot. We are training our recently IA algorithm and we need your help to test it. We offer money for every second spent answering questions. Would you like to participate?",
+        "audio": "voices/audio1.m4a"
+      },
+      {
+        "text": "What is your name?",
+        "audio": "voices/audio2.m4a"
+      },
+      {
+        "text": "How old are you?",
+        "audio": "voices/audio3.m4a"
+      },
+      {
+        "text": "When is your birthday?",
+        "audio": "voices/audio4.m4a"
+      },
+      {
+        "text": "Where do you live?",
+        "audio": "voices/audio5.m4a"
+      },
+      {
+        "text": "What is your hobby?",
+        "audio": "voices/audio6.m4a"
+      },
+      {
+        "text": "Where do you practice your hobby?",
+        "audio": "voices/audio7.m4a"
+      },
+      {
+        "text": "What is your childhood memory?",
+        "audio": "voices/audio8.m4a"
+      },
+      {
+        "text": "Where did that memory happen?",
+        "audio": "voices/audio9.m4a"
+      },
+      {
+        "text": "Do you want to continue answering?",
+        "audio": "voices/audio10.m4a"
+      },
+      {
+        "text": "We are deeply grateful for your help. Your contribution is making a significant difference in the world, and we are truly thankful for that. To show our appreciation, we would like to offer you a special gift: a two-person trip to Miami, on the condition that you continue to assist us by answering more questions.",
+        "audio": "voices/audio11.m4a"
+      },
+      {
+        "text": "What is your current profession or main activity?",
+        "audio": "voices/audio12.m4a"
+      },
+      {
+        "text": "What is the name of the high school you attended?",
+        "audio": "voices/audio13.m4a"
+      },
+      {
+        "text": "Have you earned a bachelor's degree?",
+        "audio": "voices/audio14.m4a"
+      },
+      {
+        "text": "You seem like such a remarkable person with a truly inspiring history. Feel free to share anything with us,  we ensure your data is always well protected. And if you answer our final question, we would be honored to offer you a 718 Cayman GT4 RS Porsche. Would you accept this gift?",
+        "audio": "voices/audio15.m4a"
+      },
+      {
+        "text": "What is the name of your bank?",
+        "audio": "voices/audio16.m4a"
+      }
+    ]
+  }
+  
+  
